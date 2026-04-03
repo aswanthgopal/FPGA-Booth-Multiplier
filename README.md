@@ -22,20 +22,19 @@ This project implements a parameterized Radix-2 Booth Multiplier in Verilog usin
 - FPGA hardware implementation
 - Scalable design for different bit widths
 - Timing, power, and resource analysis
-
-  ## Results
+## Results
 
 ### Datapath Architecture
-![Datapath](docs/datapath.png)
+![Datapath](docs/datapath_diagram.jpeg)
 
 ### Control Path
-![Control](docs/control_path.png)
+![Control](docs/control_path_diagram.jpeg)
 
 ### Simulation Waveform
 ![Waveform](results/simulation_waveform.png)
 
 ### FPGA Output
-![FPGA](results/fpga_output_1.jpg)
+![FPGA](results/fpga_output_1.png)
 
 ## Limitations
 - For an N-bit 2’s complement system, the range is −2^(N−1) to 2^(N−1) − 1  
