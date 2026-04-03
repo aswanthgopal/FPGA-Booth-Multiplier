@@ -30,6 +30,9 @@ This project implements a parameterized Radix-2 Booth Multiplier in Verilog usin
 ### Control Path
 ![Control](docs/control_path_diagram.jpeg)
 
+### Simulation Console
+![Control](docs/simulation_console.png)
+
 ### Simulation Waveform
 ![Waveform](results/simulation_waveform.png)
 
